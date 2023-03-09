@@ -1,0 +1,5 @@
+data/data_array.npy
+data/data.mp4
+data/model.hdf5
+/.vscode
+__pycache__/ 
