@@ -2,7 +2,7 @@
 sign language classifier
 
 ## installation
-- Download the model from the following [link]() 
+- Download the model from the following [link](https://drive.google.com/file/d/1C5y9CbzsKj-iR_LzAwFGWI1MfWNJOMzY/view?usp=sharing) 
 - Copy and paste the model into the "data" folder
 - Run `pip install -r requirements.txt`
 
